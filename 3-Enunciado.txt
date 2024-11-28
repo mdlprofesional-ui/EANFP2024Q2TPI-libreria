@@ -1,0 +1,22 @@
+Recorrido Interactivo por un Zoológico
+
+Objetivo:
+
+Los usuarios pueden recorrer diferentes sectores, ganar puntos y canjear esos puntos para comprar comida para los animales. 
+
+Descripción:
+
+El usuario recorre un zoológico pasando por diferentes sectores (por ejemplo, 6) de animales. Durante el recorrido:
+
+1-Gana puntos al pasar por los sectores (20 puntos por cada sector).
+2-Cada cierto número de puntos acumulados, puede canjear puntos para comprar comida para darle a los animales (20 puntos el paquete de comida).
+3-Al final del recorrido, puede consultar cuántos puntos ha acumulado y qué comida ha comprado.
+4-El usuario puede hacer una búsqueda para saber en qué sector se encuentran los elefantes.
+
+Se validara que el usuario tenga suficientes puntos para hacer el canje.
+
+Flujo de eventos:
+
+El programa comienza mostrando los sectores del zoológico.Luego, el usuario recorre cada sector en un ciclo, ganando puntos. Cada vez que tiene suficientes puntos, puede decidir si quiere canjear esos puntos por comida. Al final del recorrido, el programa muestra cuántos puntos acumuló y cuántas veces canjeó comida.
+
+Además, se permite hacer una búsqueda para encontrar en qué sector se encuentran los elefantes.

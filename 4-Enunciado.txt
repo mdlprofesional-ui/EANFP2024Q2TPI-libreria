@@ -1,0 +1,14 @@
+Carrera de caballos:
+
+Generar una aplicacion sobre una carrera de caballos donde cada caballo avanza por millas hasta llegar a una meta. Utilizar la función random del módulo math para determinar el avance de cada caballo en cada milla, y al final verificar qué caballo llega primero a la meta. 
+
+Descripción:
+
+Simular una carrera de caballos donde cada caballo avanza aleatoriamente por cada milla hasta que uno llega a la meta. La carrera tiene una distancia fija que los caballos deben recorrer. Cada avance es una milla aleatoria, y al final se determina qué caballo ha llegado primero.
+
+Flujo de eventos:
+
+Inicio de la carrera: Los caballos comienzan en la milla 0.
+Progreso de la carrera: En cada ronda, todos los caballos avanzan una cantidad aleatoria de millas. Se muestra el avance de cada uno.
+Condiciones: Si un caballo llega a la meta (10 millas), la carrera se detiene y se declara un ganador.
+Resultados finales: Al final, se muestra la distancia total recorrida por cada caballo.

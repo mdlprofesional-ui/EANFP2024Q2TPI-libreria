@@ -1,0 +1,18 @@
+Gestion de Puntos de Equipos de Futbol:
+
+Descripción del problema:
+
+Un sistema de gestión de puntos está siendo implementado para una liga de fútbol en la que participan varios equipos. Cada equipo se representa a traves de una posición en la tabla y sus puntos acumulados se almacenan en una lista. El sistema debe permitir gestionar y consultar los puntos de los equipos mediante varias funcionalidades.
+
+Objetivo:
+
+Desarrollar un programa que permita realizar mediante un menú interactivo sobre una lista de puntos de equipos de fútbol, las siguientes acciones:
+
+1. Ver el equipo con más puntos.
+2. Agregar puntos a un equipo.
+3. Eliminar equipos con menos de 10 puntos
+4. Buscar el puntaje de un equipo según su posición
+5. cantidad de partidos ganados por equipo
+6. Equipos invictos
+7. Mostrar la tabla de puntos de posiciones
+8. Salir
