@@ -1,17 +1,1 @@
-Gestion de libros:
-
-Se debe desarrollar un sistema de gestión para una biblioteca que necesita organizar su inventario de libros. Cada libro en el inventario está identificado por su título y se almacena en una lista. Los títulos de los libros están en formato de cadena de texto. El sistema debe permitir realizar las siguientes funcionalidades:
-
-1. Agregar un libro
-2. Eliminar un libro
-3.  Modificar el titulo de un libro a partir de la posicion donde se encuentra
-4. Listar todos los libros
-5. Buscar un libro
-6. Ordenar inventario (A-Z)
-7. Salir
-
-
-
-sarasa
-saaaaaaa
-ssssssssss
+Hola mundo
